@@ -1,0 +1,5 @@
+package com.lms.LaptopManagementSystem.repository;
+
+public interface UserRepository {
+
+}
